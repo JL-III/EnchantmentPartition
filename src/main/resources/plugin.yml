@@ -1,0 +1,4 @@
+name: EnchantmentPartition
+version: '1.0-SNAPSHOT'
+main: com.playtheatria.enchantmentPartition.EnchantmentPartition
+api-version: '1.20'
