@@ -2,3 +2,8 @@ name: EnchantmentPartition
 version: '1.0-SNAPSHOT'
 main: com.playtheatria.enchantmentPartition.EnchantmentPartition
 api-version: '1.20'
+commands:
+  partition:
+    description: Separate a book that has multiple enchants to multiple books
+    usage: |
+      /<command>
